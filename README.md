@@ -24,7 +24,7 @@
 **Число модулей реализации**: 6
 
 **Результаты тестирования:**
-1. test_for_all_types_of_square_matrix - (real) 0.012s, (user) 0.001s, (sys) 0.006s
-3. test_for_diagonal_matrix - (real) 0.004s, (user) 0.004s, (sys) 0.000s
-4. test_for_lower_triangular_matrix - (real) 0.006s, (user) 0.006s, (sys) 0.000s
-5. test_for_reqular_array - (real) 0.008s, (user) 0.004s, (sys) 0.004s
+1. test_for_all_types_of_square_matrix - (real) 0.010s, (user) 0.001s, (sys) 0.006s
+3. test_for_diagonal_matrix - (real) 0.002s, (user) 0.004s, (sys) 0.000s
+4. test_for_lower_triangular_matrix - (real) 0.004s, (user) 0.006s, (sys) 0.000s
+5. test_for_reqular_array - (real) 0.006s, (user) 0.004s, (sys) 0.004s
